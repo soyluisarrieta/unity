@@ -75,9 +75,10 @@ C# un lenguaje de programación multiplataforma desarrollado y estandarizado por
 ##### Instalaciones
 
 1. [Marco multiplataforma .Net](https://dotnet.microsoft.com/es-es/download)
-2. [VSCode](https://code.visualstudio.com/download)
-3. Extensión: [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
-4. Extensión: [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
+2. [VSCode](https://code.visualstudio.com/download) y las extensiones:
+   1. [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
+   2. [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
+3. [Visual Studio Community](https://visualstudio.microsoft.com/es/downloads/) y en la cargas de trabajo seleccionar "**Desarrollo de juegos con Unity**"
 
 ##### Configuraciones
 
