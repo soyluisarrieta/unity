@@ -1,0 +1,15 @@
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\01.hello-world\bin\Debug\net8.0\01.hello-world.exe
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\01.hello-world\bin\Debug\net8.0\01.hello-world.deps.json
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\01.hello-world\bin\Debug\net8.0\01.hello-world.runtimeconfig.json
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\01.hello-world\bin\Debug\net8.0\01.hello-world.dll
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\01.hello-world\bin\Debug\net8.0\01.hello-world.pdb
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\01.hello-world\obj\Debug\net8.0\01.hello-world.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\01.hello-world\obj\Debug\net8.0\01.hello-world.AssemblyInfoInputs.cache
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\01.hello-world\obj\Debug\net8.0\01.hello-world.AssemblyInfo.cs
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\01.hello-world\obj\Debug\net8.0\01.hello-world.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\01.hello-world\obj\Debug\net8.0\01.hello-world.sourcelink.json
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\01.hello-world\obj\Debug\net8.0\01.hello-world.dll
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\01.hello-world\obj\Debug\net8.0\refint\01.hello-world.dll
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\01.hello-world\obj\Debug\net8.0\01.hello-world.pdb
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\01.hello-world\obj\Debug\net8.0\01.hello-world.genruntimeconfig.cache
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\01.hello-world\obj\Debug\net8.0\ref\01.hello-world.dll

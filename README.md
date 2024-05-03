@@ -60,6 +60,43 @@
 |CURSO DE C# .NET GRATIS (Intensivo)|[YouTube](https://youtu.be/j8sxDnr7nPY)|
 |Curso C# para UNITY|[YouTube](https://youtu.be/-kVmvr2UERU)|
 
+##### Sobre C\#
+
+C# un lenguaje de programación multiplataforma desarrollado y estandarizado por **Microsoft** como parte de su plataforma .NET en el año 2000. Algunos usos habituales son:
+
+1. Aplicaciones y servicios web
+2. Aplcaciones nativas para Windows, MacOS, iOS y Android
+3. Crear o consumir servicios en la nube
+4. Crear microservicios
+5. Aprendizaje automático
+6. Desarrollo de juegos
+7. Entre otros...
+
+##### Instalaciones
+
+1. [Marco multiplataforma .Net](https://dotnet.microsoft.com/es-es/download)
+2. [VSCode](https://code.visualstudio.com/download)
+3. Extensión: [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
+4. Extensión: [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
+
+##### Configuraciones
+
+##### Crear proyecto nuevo y ejecutarlo por consola
+
+Crear la carpeta del proyecto, abrir una terminal dentro y ejecutar:
+
+```bash
+dotnet new console
+```
+
+Ahora para ejecutar el código generado por .net:
+
+```bash
+dotnet run
+```
+
+Con esto aparecerá el Hello Word que generó .net
+
 ### Entorno de desarrollo Unity
 
 ### Creación de juegos 2D y 3D
