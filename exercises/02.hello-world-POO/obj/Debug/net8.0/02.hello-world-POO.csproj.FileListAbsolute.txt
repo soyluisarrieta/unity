@@ -1,0 +1,15 @@
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\02.hello-world-POO\bin\Debug\net8.0\02.hello-world-POO.exe
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\02.hello-world-POO\bin\Debug\net8.0\02.hello-world-POO.deps.json
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\02.hello-world-POO\bin\Debug\net8.0\02.hello-world-POO.runtimeconfig.json
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\02.hello-world-POO\bin\Debug\net8.0\02.hello-world-POO.dll
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\02.hello-world-POO\bin\Debug\net8.0\02.hello-world-POO.pdb
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\02.hello-world-POO\obj\Debug\net8.0\02.hello-world-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\02.hello-world-POO\obj\Debug\net8.0\02.hello-world-POO.AssemblyInfoInputs.cache
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\02.hello-world-POO\obj\Debug\net8.0\02.hello-world-POO.AssemblyInfo.cs
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\02.hello-world-POO\obj\Debug\net8.0\02.hello-world-POO.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\02.hello-world-POO\obj\Debug\net8.0\02.hello-world-POO.sourcelink.json
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\02.hello-world-POO\obj\Debug\net8.0\02.hello-world-POO.dll
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\02.hello-world-POO\obj\Debug\net8.0\refint\02.hello-world-POO.dll
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\02.hello-world-POO\obj\Debug\net8.0\02.hello-world-POO.pdb
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\02.hello-world-POO\obj\Debug\net8.0\02.hello-world-POO.genruntimeconfig.cache
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\02.hello-world-POO\obj\Debug\net8.0\ref\02.hello-world-POO.dll

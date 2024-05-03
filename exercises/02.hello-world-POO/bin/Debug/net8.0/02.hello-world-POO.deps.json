@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "02.hello-world-POO/1.0.0": {
+        "runtime": {
+          "02.hello-world-POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02.hello-world-POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
