@@ -4,9 +4,9 @@
 
 |Núm.|Nombre del Proyecto|Código|
 |-|-|-|
-|`01`|||
-|`02`|||
-|`03`|||
+|`01`|Hello World| [Ver](./exercises/01.hello-world/Program.cs)|
+|`02`|Hello World with OOP| [Ver](./exercises//02.hello-world-POO/Program.cs)|
+|`03`|Basic sintax| [Ver](./exercises/03.basic-syntax/Program.cs)|
 |`04`|||
 |`05`|||
 
@@ -117,7 +117,7 @@ namespace CSharpHelloWorld
 ##### Sintaxis básica
 
 <details>
-  <summary>📘 Código fuente | <a href="./exercises/03.basic-syntax/Program.cs">Ir al fichero</a></summary>
+  <summary><strong>📘 Código fuente</strong> | <a href="./exercises/03.basic-syntax/Program.cs">Ir al fichero</a></summary>
 
   ```c#
   using System;
