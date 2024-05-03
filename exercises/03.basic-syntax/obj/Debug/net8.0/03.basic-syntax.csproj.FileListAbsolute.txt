@@ -1,0 +1,15 @@
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\03.basic-syntax\bin\Debug\net8.0\03.basic-syntax.exe
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\03.basic-syntax\bin\Debug\net8.0\03.basic-syntax.deps.json
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\03.basic-syntax\bin\Debug\net8.0\03.basic-syntax.runtimeconfig.json
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\03.basic-syntax\bin\Debug\net8.0\03.basic-syntax.dll
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\03.basic-syntax\bin\Debug\net8.0\03.basic-syntax.pdb
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\03.basic-syntax\obj\Debug\net8.0\03.basic-syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\03.basic-syntax\obj\Debug\net8.0\03.basic-syntax.AssemblyInfoInputs.cache
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\03.basic-syntax\obj\Debug\net8.0\03.basic-syntax.AssemblyInfo.cs
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\03.basic-syntax\obj\Debug\net8.0\03.basic-syntax.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\03.basic-syntax\obj\Debug\net8.0\03.basic-syntax.sourcelink.json
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\03.basic-syntax\obj\Debug\net8.0\03.basic-syntax.dll
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\03.basic-syntax\obj\Debug\net8.0\refint\03.basic-syntax.dll
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\03.basic-syntax\obj\Debug\net8.0\03.basic-syntax.pdb
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\03.basic-syntax\obj\Debug\net8.0\03.basic-syntax.genruntimeconfig.cache
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\03.basic-syntax\obj\Debug\net8.0\ref\03.basic-syntax.dll
