@@ -52,6 +52,14 @@
 
 ### Fundamentos-de-programación
 
+#### Conceptos básicos de programación en C\#
+
+|Nombre del curso|Enlace|
+|-|-|
+|C# Desde Cero: Primeros Pasos|[YouTube](https://youtu.be/L-f8u0hwi4Y)|
+|CURSO DE C# .NET GRATIS (Intensivo)|[YouTube](https://youtu.be/j8sxDnr7nPY)|
+|Curso C# para UNITY|[YouTube](https://youtu.be/-kVmvr2UERU)|
+
 ### Entorno-de-desarrollo-Unity
 
 ### Creación-de-juegos-2D-y-3D
