@@ -25,12 +25,12 @@
 
 2. [**Entorno de desarrollo Unity**](#entorno-de-desarrollo-unity):
    - [x] Interfaz de usuario de Unity.
-   - [ ] Manejo de proyectos en Unity (creación, organización, etc.).
-   - [ ] Gestión de escenas y activos.
+   - [x] Manejo de proyectos en Unity (creación, organización, etc.).
+   - [x] Gestión de escenas y activos.
 
 3. [**Creación de juegos 2D y 3D**](#Creación-de-juegos-2D-y-3D):
-   - [ ] Creación y manipulación de objetos en 2D y 3D.
-   - [ ] Físicas y colisiones.
+   - [x] Creación y manipulación de objetos en 2D y 3D.
+   - [x] Físicas y colisiones.
    - [ ] Animaciones.
    - [ ] Sistemas de partículas.
 
