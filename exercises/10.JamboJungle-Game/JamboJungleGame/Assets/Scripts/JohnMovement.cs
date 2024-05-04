@@ -8,19 +8,23 @@ public class JohnMovement : MonoBehaviour
     public float JumpForce;
 
     private Rigidbody2D Rigidbody2D;
+    private Animator Animator;
     private float Horizontal;
     private bool Grounded;
 
     void Start()
     {
-        // Acceder al Rigidbody
         Rigidbody2D = GetComponent<Rigidbody2D>();
+        Animator = GetComponent<Animator>();
     }
 
     void Update()
     {
         // Conocer la tecla presionada (a: -1, d: 1, si no presiona nada: 0) 
         Horizontal = Input.GetAxisRaw("Horizontal");
+
+        // Activar animación de correr cuando se mueve el personaje horizontalmente
+        Animator.SetBool("running", Horizontal != 0.0f);
 
         // Característica de salto sólo cuando toca el suelo
         if(Physics2D.Raycast(transform.position, Vector3.down, 0.1f))
