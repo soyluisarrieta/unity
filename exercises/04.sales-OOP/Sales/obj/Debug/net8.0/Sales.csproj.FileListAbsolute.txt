@@ -1,0 +1,15 @@
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\04.sales-OOP\Sales\bin\Debug\net8.0\Sales.exe
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\04.sales-OOP\Sales\bin\Debug\net8.0\Sales.deps.json
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\04.sales-OOP\Sales\bin\Debug\net8.0\Sales.runtimeconfig.json
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\04.sales-OOP\Sales\bin\Debug\net8.0\Sales.dll
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\04.sales-OOP\Sales\bin\Debug\net8.0\Sales.pdb
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\04.sales-OOP\Sales\obj\Debug\net8.0\Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\04.sales-OOP\Sales\obj\Debug\net8.0\Sales.AssemblyInfoInputs.cache
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\04.sales-OOP\Sales\obj\Debug\net8.0\Sales.AssemblyInfo.cs
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\04.sales-OOP\Sales\obj\Debug\net8.0\Sales.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\04.sales-OOP\Sales\obj\Debug\net8.0\Sales.sourcelink.json
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\04.sales-OOP\Sales\obj\Debug\net8.0\Sales.dll
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\04.sales-OOP\Sales\obj\Debug\net8.0\refint\Sales.dll
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\04.sales-OOP\Sales\obj\Debug\net8.0\Sales.pdb
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\04.sales-OOP\Sales\obj\Debug\net8.0\Sales.genruntimeconfig.cache
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\04.sales-OOP\Sales\obj\Debug\net8.0\ref\Sales.dll

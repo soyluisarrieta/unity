@@ -1,0 +1,15 @@
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\07.json-serialization-and-seserialization\JsonSerializationAndSeserialization\bin\Debug\net8.0\JsonSerializationAndSeserialization.exe
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\07.json-serialization-and-seserialization\JsonSerializationAndSeserialization\bin\Debug\net8.0\JsonSerializationAndSeserialization.deps.json
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\07.json-serialization-and-seserialization\JsonSerializationAndSeserialization\bin\Debug\net8.0\JsonSerializationAndSeserialization.runtimeconfig.json
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\07.json-serialization-and-seserialization\JsonSerializationAndSeserialization\bin\Debug\net8.0\JsonSerializationAndSeserialization.dll
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\07.json-serialization-and-seserialization\JsonSerializationAndSeserialization\bin\Debug\net8.0\JsonSerializationAndSeserialization.pdb
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\07.json-serialization-and-seserialization\JsonSerializationAndSeserialization\obj\Debug\net8.0\JsonSerializationAndSeserialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\07.json-serialization-and-seserialization\JsonSerializationAndSeserialization\obj\Debug\net8.0\JsonSerializationAndSeserialization.AssemblyInfoInputs.cache
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\07.json-serialization-and-seserialization\JsonSerializationAndSeserialization\obj\Debug\net8.0\JsonSerializationAndSeserialization.AssemblyInfo.cs
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\07.json-serialization-and-seserialization\JsonSerializationAndSeserialization\obj\Debug\net8.0\JsonSerializationAndSeserialization.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\07.json-serialization-and-seserialization\JsonSerializationAndSeserialization\obj\Debug\net8.0\JsonSerializationAndSeserialization.sourcelink.json
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\07.json-serialization-and-seserialization\JsonSerializationAndSeserialization\obj\Debug\net8.0\JsonSerializationAndSeserialization.dll
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\07.json-serialization-and-seserialization\JsonSerializationAndSeserialization\obj\Debug\net8.0\refint\JsonSerializationAndSeserialization.dll
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\07.json-serialization-and-seserialization\JsonSerializationAndSeserialization\obj\Debug\net8.0\JsonSerializationAndSeserialization.pdb
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\07.json-serialization-and-seserialization\JsonSerializationAndSeserialization\obj\Debug\net8.0\JsonSerializationAndSeserialization.genruntimeconfig.cache
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\07.json-serialization-and-seserialization\JsonSerializationAndSeserialization\obj\Debug\net8.0\ref\JsonSerializationAndSeserialization.dll

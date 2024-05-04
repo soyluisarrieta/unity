@@ -1,0 +1,15 @@
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\05.sales-interfaces\SalesInterfaces\bin\Debug\net8.0\SalesInterfaces.exe
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\05.sales-interfaces\SalesInterfaces\bin\Debug\net8.0\SalesInterfaces.deps.json
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\05.sales-interfaces\SalesInterfaces\bin\Debug\net8.0\SalesInterfaces.runtimeconfig.json
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\05.sales-interfaces\SalesInterfaces\bin\Debug\net8.0\SalesInterfaces.dll
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\05.sales-interfaces\SalesInterfaces\bin\Debug\net8.0\SalesInterfaces.pdb
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\05.sales-interfaces\SalesInterfaces\obj\Debug\net8.0\SalesInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\05.sales-interfaces\SalesInterfaces\obj\Debug\net8.0\SalesInterfaces.AssemblyInfoInputs.cache
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\05.sales-interfaces\SalesInterfaces\obj\Debug\net8.0\SalesInterfaces.AssemblyInfo.cs
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\05.sales-interfaces\SalesInterfaces\obj\Debug\net8.0\SalesInterfaces.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\05.sales-interfaces\SalesInterfaces\obj\Debug\net8.0\SalesInterfaces.sourcelink.json
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\05.sales-interfaces\SalesInterfaces\obj\Debug\net8.0\SalesInterfaces.dll
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\05.sales-interfaces\SalesInterfaces\obj\Debug\net8.0\refint\SalesInterfaces.dll
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\05.sales-interfaces\SalesInterfaces\obj\Debug\net8.0\SalesInterfaces.pdb
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\05.sales-interfaces\SalesInterfaces\obj\Debug\net8.0\SalesInterfaces.genruntimeconfig.cache
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\05.sales-interfaces\SalesInterfaces\obj\Debug\net8.0\ref\SalesInterfaces.dll

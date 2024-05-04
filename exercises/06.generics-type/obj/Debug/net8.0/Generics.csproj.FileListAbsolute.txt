@@ -1,0 +1,15 @@
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\06.generics-type\Generics\bin\Debug\net8.0\Generics.exe
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\06.generics-type\Generics\bin\Debug\net8.0\Generics.deps.json
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\06.generics-type\Generics\bin\Debug\net8.0\Generics.runtimeconfig.json
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\06.generics-type\Generics\bin\Debug\net8.0\Generics.dll
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\06.generics-type\Generics\bin\Debug\net8.0\Generics.pdb
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\06.generics-type\Generics\obj\Debug\net8.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\06.generics-type\Generics\obj\Debug\net8.0\Generics.AssemblyInfoInputs.cache
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\06.generics-type\Generics\obj\Debug\net8.0\Generics.AssemblyInfo.cs
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\06.generics-type\Generics\obj\Debug\net8.0\Generics.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\06.generics-type\Generics\obj\Debug\net8.0\Generics.sourcelink.json
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\06.generics-type\Generics\obj\Debug\net8.0\Generics.dll
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\06.generics-type\Generics\obj\Debug\net8.0\refint\Generics.dll
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\06.generics-type\Generics\obj\Debug\net8.0\Generics.pdb
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\06.generics-type\Generics\obj\Debug\net8.0\Generics.genruntimeconfig.cache
+C:\xampp\htdocs\EJERCICIOS\OTROS\unity\exercises\06.generics-type\Generics\obj\Debug\net8.0\ref\Generics.dll
