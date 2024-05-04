@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class JohnMovement : MonoBehaviour
 {
+    public GameObject BulletPrefab;
     public float Speed;
     public float JumpForce;
 
@@ -11,6 +12,7 @@ public class JohnMovement : MonoBehaviour
     private Animator Animator;
     private float Horizontal;
     private bool Grounded;
+    private float LastShoot;
 
     void Start()
     {
@@ -39,15 +41,34 @@ public class JohnMovement : MonoBehaviour
             Grounded = false;
         }
 
+        // Evaluar si está pulsando las teclas de salto y si está en el suelo
         if ((Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow)) && Grounded)
         {
             Jump();
+        }
+
+        if (Input.GetKey(KeyCode.Space) && Time.time > LastShoot + 0.25f)
+        {
+            Shoot();
+            LastShoot = Time.time;
         }
     }
 
     private void Jump()
     {
+        // Cambiar la posición del personaje hacia arriba
         Rigidbody2D.AddForce(Vector2.up * JumpForce);
+    }
+
+    private void Shoot()
+    {
+        Vector3 direction;
+        if (transform.localScale.x == 1.0f) direction = Vector2.right;
+        else direction = Vector2.left;
+
+        // Duplicar la bala en la posición del jugador
+        GameObject bullet = Instantiate(BulletPrefab, transform.position + direction * 0.2f, Quaternion.identity);
+        bullet.GetComponent<BulletScript>().SetDirection(direction);
     }
 
     private void FixedUpdate()
