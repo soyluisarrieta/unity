@@ -4,8 +4,12 @@ using UnityEngine;
 
 public class JohnMovement : MonoBehaviour
 {
+    public float Speed;
+    public float JumpForce;
+
     private Rigidbody2D Rigidbody2D;
     private float Horizontal;
+    private bool Grounded;
 
     void Start()
     {
@@ -17,6 +21,25 @@ public class JohnMovement : MonoBehaviour
     {
         // Conocer la tecla presionada (a: -1, d: 1, si no presiona nada: 0) 
         Horizontal = Input.GetAxisRaw("Horizontal");
+
+        // Característica de salto sólo cuando toca el suelo
+        if(Physics2D.Raycast(transform.position, Vector3.down, 0.1f))
+        {
+            Grounded = true;
+        } else
+        {
+            Grounded = false;
+        }
+
+        if (Input.GetKeyDown(KeyCode.W) && Grounded)
+        {
+            Jump();
+        }
+    }
+
+    private void Jump()
+    {
+        Rigidbody2D.AddForce(Vector2.up * JumpForce);
     }
 
     private void FixedUpdate()
