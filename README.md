@@ -24,7 +24,7 @@
    - [x] Programación orientada a objetos (clases, objetos, herencia, etc.).
 
 2. [**Entorno de desarrollo Unity**](#entorno-de-desarrollo-unity):
-   - [ ] Interfaz de usuario de Unity.
+   - [x] Interfaz de usuario de Unity.
    - [ ] Manejo de proyectos en Unity (creación, organización, etc.).
    - [ ] Gestión de escenas y activos.
 
@@ -690,6 +690,30 @@ namespace CSharpHelloWorld
     </details>
 
 ### Entorno de desarrollo Unity
+
+#### Crear un nuevo proyecto
+
+1. Al abrir el programa Unity, presionar en el botón "New Project".
+2. Es posible seleccionar alguna plantilla prediseñada en base a la necesidad.
+3. Añadir algunos ajustes como el nombre del proyecto, ubicación y demás.
+4. Presionar en el botón "Create project" y esto generará un proyecto con todos los assets necesarios.
+
+Un proyecto vacío en 2D me ha generado 1.52GB en peso total.
+
+#### Interfaz de usuario
+
+![unity-interface](unity-interface.jpg)
+
+Este es el entorno por defecto que proporciona Unity:
+
+1. **Panel "Jerarquía":** se ubica la lista de objetos del juego que esté en pantalla, por ejemplo: Personajes, elementos del escenario, fondo de pantalla, etc. Una vez que desaparezca un objeto en pantalla, también lo hace en el panel.
+2. **Vista de escena:** se encuentran divididas en dos pestañas:
+   1. **Escena:** Se podrá colocar, mover, redimensionar y rotar todos los objetos.
+   2. **Juego:** Se mostrará cómo quedará en la realidad el juego.
+
+   Podemos decir que la vista Escena es lo que ve el programador, y la vista Juego lo que verá el usuario cuando juegue.
+3. **Panel "Inspector":** Al seleccionar un objeto, se puede conocer el tamaño, qué texturas y efectos se le ha aplicado, hacer que reaccione a las leyes de la física, etc.
+4. **Paneles "Proyecto y Consola":** En la pestaña proyecto se observa toda la colección de objetos, texturas, sonidos, vídeos y demás material. Y en la de Consola los mensajes de error que se pueda producir en el código de programación.
 
 ### Creación de juegos 2D y 3D
 
