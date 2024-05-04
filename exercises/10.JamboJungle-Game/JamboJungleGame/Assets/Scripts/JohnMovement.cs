@@ -31,7 +31,7 @@ public class JohnMovement : MonoBehaviour
             Grounded = false;
         }
 
-        if (Input.GetKeyDown(KeyCode.W) && Grounded)
+        if ((Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow)) && Grounded)
         {
             Jump();
         }
