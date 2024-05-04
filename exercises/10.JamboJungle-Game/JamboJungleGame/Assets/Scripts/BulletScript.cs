@@ -24,4 +24,9 @@ public class BulletScript : MonoBehaviour
         if (Direction == direction) return;
         Direction = direction;
     }
+
+    public void DestroyBullet()
+    {
+        Destroy(gameObject);
+    }
 }
