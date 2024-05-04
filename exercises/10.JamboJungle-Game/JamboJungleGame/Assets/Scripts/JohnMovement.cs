@@ -23,6 +23,10 @@ public class JohnMovement : MonoBehaviour
         // Conocer la tecla presionada (a: -1, d: 1, si no presiona nada: 0) 
         Horizontal = Input.GetAxisRaw("Horizontal");
 
+        // Girar el personaje dependiendo de la direción a la que va
+        if(Horizontal < 0.0f) transform.localScale = new Vector3 (-1.0f, 1.0f, 1.0f);
+        else if(Horizontal > 0.0f) transform.localScale = new Vector3 (1.0f, 1.0f, 1.0f);
+
         // Activar animación de correr cuando se mueve el personaje horizontalmente
         Animator.SetBool("running", Horizontal != 0.0f);
 
