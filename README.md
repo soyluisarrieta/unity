@@ -6,9 +6,14 @@
 |-|-|-|
 |`01`|Hello World| [Ver](./exercises/01.hello-world/Program.cs)|
 |`02`|Hello World with OOP| [Ver](./exercises//02.hello-world-POO/Program.cs)|
-|`03`|Basic sintax| [Ver](./exercises/03.basic-syntax/Program.cs)|
-|`04`|||
-|`05`|||
+|`03`|Basic Sintax| [Ver](./exercises/03.basic-syntax/Program.cs)|
+|`04`|Sales OOP| [Ver](./exercises/04.sales-OOP/Sales/Program.cs)|
+|`05`|Using Interfaces| [Ver](./exercises/05.sales-interfaces/Program.cs)|
+|`06`|Generic types| [Ver](./exercises/06.generics-type/Program.cs)|
+|`07`|JSON Serialization and Diserialization| [Ver](./exercises/07.json-serialization-and-seserialization/Program.cs)|
+|`08`|LINQ| [Ver](./exercises/08.LINQ/Program.cs)|
+|`09`|||
+|`10`|||
 
 ## Temario
 
@@ -16,7 +21,7 @@
    - [x] Conceptos básicos de programación en C#.
    - [x] Estructuras de control (condicionales, bucles, etc.).
    - [x] Funciones y métodos.
-   - [ ] Programación orientada a objetos (clases, objetos, herencia, etc.).
+   - [x] Programación orientada a objetos (clases, objetos, herencia, etc.).
 
 2. [**Entorno de desarrollo Unity**](#entorno-de-desarrollo-unity):
    - [ ] Interfaz de usuario de Unity.
