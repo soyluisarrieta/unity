@@ -63,7 +63,7 @@ La idea de ver los siguientes cursos es que van desde cero, algo más intermedio
 |-|-|
 |C# Desde Cero: Primeros Pasos|[YouTube](https://youtu.be/L-f8u0hwi4Y)|
 |CURSO DE C# .NET GRATIS (Intensivo)|[YouTube](https://youtu.be/j8sxDnr7nPY)|
-|Curso C# para UNITY|[YouTube](https://youtu.be/-kVmvr2UERU)|
+|Tutorial COMPLETO Unity 2D desde Cero|[YouTube](https://youtu.be/GbmRt0wydQU)|
 
 #### ▶️ Sobre C\#
 
@@ -83,7 +83,8 @@ C# un lenguaje de programación multiplataforma desarrollado y estandarizado por
 2. [VSCode](https://code.visualstudio.com/download) y las extensiones:
    1. [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
    2. [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
-3. [Visual Studio Community](https://visualstudio.microsoft.com/es/downloads/) y en la cargas de trabajo seleccionar "**Desarrollo de juegos con Unity**"
+3. [Visual Studio Community](https://visualstudio.microsoft.com/es/downloads/) y en la cargas de trabajo seleccionar "**Desarrollo de escritorio de .NET**" y "**Desarrollo de juegos con Unity**"
+4. [Unity](https://unity.com/es/download)
 
 #### ▶️ Crear proyecto nuevo y ejecutarlo por consola
 
