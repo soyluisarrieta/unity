@@ -2,16 +2,17 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Camera : MonoBehaviour
+public class CameraScript : MonoBehaviour
 {
-    public GameObject John;
+    public Transform John;
 
     void Update()
     {
-        if (John == null) return;
-
-        Vector3 position = transform.position;
-        position.x = John.transform.position.x;
-        transform.position = position;
+        if (John != null)
+        {
+            Vector3 position = transform.position;
+            position.x = John.position.x;
+            transform.position = position;
+        }
     }
 }
