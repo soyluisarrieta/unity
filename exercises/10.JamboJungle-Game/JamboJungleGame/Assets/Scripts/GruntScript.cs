@@ -8,9 +8,13 @@ public class GruntScript : MonoBehaviour
     public GameObject John;
 
     private float LastShoot;
+    private int Health = 3;
 
     void Update()
     {
+        // Comprobar si John ya no existe
+        if (John == null) return;
+
         // Obtener la direción del Grunt a John
         Vector3 direction = John.transform.position - transform.position;
         if (direction.x >= 0.0f) transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
@@ -32,5 +36,11 @@ public class GruntScript : MonoBehaviour
 
         GameObject bullet = Instantiate(BulletPrefab, transform.position + direction * 0.1f, Quaternion.identity);
         bullet.GetComponent<BulletScript>().SetDirection(direction);
+    }
+
+    public void Hit()
+    {
+        Health = Health - 1;
+        if (Health == 0) Destroy(gameObject);
     }
 }
