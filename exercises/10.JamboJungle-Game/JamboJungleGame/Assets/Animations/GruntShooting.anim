@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: GruntAnimation
+  m_Name: GruntShooting
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,9 +21,9 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 731019519, guid: 5f01b504c0b0ace45a170083f6606afd, type: 3}
+      value: {fileID: 2117266105, guid: edcccf268d05c904ab397aac39c664df, type: 3}
     - time: 0.083333336
-      value: {fileID: 1256397378, guid: 5f01b504c0b0ace45a170083f6606afd, type: 3}
+      value: {fileID: 1584861542, guid: edcccf268d05c904ab397aac39c664df, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -46,8 +46,8 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 731019519, guid: 5f01b504c0b0ace45a170083f6606afd, type: 3}
-    - {fileID: 1256397378, guid: 5f01b504c0b0ace45a170083f6606afd, type: 3}
+    - {fileID: 2117266105, guid: edcccf268d05c904ab397aac39c664df, type: 3}
+    - {fileID: 1584861542, guid: edcccf268d05c904ab397aac39c664df, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
