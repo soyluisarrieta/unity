@@ -12,7 +12,7 @@
 |`06`|Generic types| [Ver](./exercises/06.generics-type/Program.cs)|
 |`07`|JSON Serialization and Diserialization| [Ver](./exercises/07.json-serialization-and-seserialization/Program.cs)|
 |`08`|LINQ| [Ver](./exercises/08.LINQ/Program.cs)|
-|`09`|||
+|`09`|Jambo Jungle Game|[ver](./exercises/10.JamboJungle-Game/JamboJungleGame/Assets/Scripts/JohnMovement.cs)|
 |`10`|||
 
 ## Temario
