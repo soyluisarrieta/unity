@@ -9128,6 +9128,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99694b3cc15827e49939d385d07d2125, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  BulletPrefab: {fileID: 351894462037858365, guid: 4506f437a2323704d9b9b5987c1a844a, type: 3}
   John: {fileID: 1577859456}
 --- !u!70 &2133170710
 CapsuleCollider2D:
